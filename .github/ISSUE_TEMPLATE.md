@@ -1,4 +1,3 @@
-Make sure these boxes are checked before submitting your issue -- thank you!
+Thank you so much for submitting a suggested change.
 
-- [ ] Check that you are using the [latest version](https://github.com/unfoldingWord-dev/ts-desktop/releases/latest) of the app.
-- [ ] Check that a similar issue has not already been opened.
+We ask that you title the issue starting with the 3 letter code of the book followed by the chapter:verse numbers.
