@@ -13,3 +13,4 @@ If you have contributed, please add your name below.  Please put one name (or ps
 * Tom Warren
 * Dave Statezni
 * Bram van den Heuvel
+* C. Harry Harriss
