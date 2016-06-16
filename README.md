@@ -1,4 +1,4 @@
-# English Unlocked Literal Bible
+# Unlocked Literal Bible - English
 
 *an unrestricted Bible intended for translation into any language*
 
