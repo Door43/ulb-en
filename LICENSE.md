@@ -11,8 +11,8 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 
 ### You are free to:
 
-  * **Share** — copy and redistribute the material in any medium or format
-  * **Adapt** — remix, transform, and build upon the material 
+ * **Share** — copy and redistribute the material in any medium or format
+ * **Adapt** — remix, transform, and build upon the material 
 
 for any purpose, even commercially.
 
@@ -20,8 +20,8 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ### Under the following conditions:
 
-  * **Attribution** — You must attribute the work as follows: "Original work of the Unlocked Literal Bible in English available at https://unfoldingword.org/ulb/". Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
-  * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+ * **Attribution** — You must attribute the work as follows: "Original work of the Unlocked Literal Bible in English available at https://unfoldingword.org/ulb/". Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
+ * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
