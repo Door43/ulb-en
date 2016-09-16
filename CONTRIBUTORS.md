@@ -14,3 +14,4 @@ If you have contributed, please add your name below. Please put one name (or pse
 * Dave Statezni
 * Bram van den Heuvel
 * C. Harry Harriss
+* Hendrik "Henry" de Vries
