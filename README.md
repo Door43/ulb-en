@@ -12,3 +12,4 @@ If you are a contributor to this project please add your name to the [Contributo
 To view the rendered USFM files, go to https://door43.org/en/ulb/ep/home
 
 To view the content in chunks in the translationNotes, go to https://door43.org/en/bible/notes/home
+ 
