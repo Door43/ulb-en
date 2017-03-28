@@ -144,7 +144,7 @@ v. 3 Wherefore whatever you have said in the darkness shall be heard in the ligh
 
 Edited:
 
-v. 1 Meanwhile, while many thousands of people were crowding together so much that they were stepping on each other, Jesus began to say to his disciples first of all, "Be on guard against the yeast of the Pharisees, which is hypocrisy ."
+v. 1 Meanwhile, while many thousands of people were crowding together so much that they were stepping on each other, Jesus began to say to his disciples first of all, "Be on guard against the yeast of the Pharisees, which is hypocrisy."
 
 v. 2 But there is nothing covered up that will not be revealed, and nothing hidden that will not be known.
 
