@@ -97,7 +97,7 @@ Preferred English renderings appear in bold type.
   * *Call* in the formula of the type, "he shall be called the Son of the Most High" (Luke 1:32): keep this formula in the ULB, but be aware of the metaphor that is operative here: in this verse, Jesus will not only be *called the Son of the Most High*, but he will be the Son of the Most High.
   * *grammateus*  "**scribe**"
   * *Hand*  indicating power or possession: we recommend that you keep this metaphor in the ULB.
-  * *egeneto de*, *kai egeneto *  "**It came about**" (See "Sentence-initial or preverbal *and***"*below)**.*
+  * *egeneto de*, *kai egeneto *  "**It came about**" (See: "Sentence-initial or preverbal *and***"*below)**.*
   * *idou*"  ** Behold  ** " (when used in normal narrative passages or in narrative embedded in direct speech. In conversational passages, translate  *idou preferably * as, "  ** look  ** ," "  ** see  ** ," "  ** see here  ** ," or at need as something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of    *idou.*
   * *Messiah*  This term sometimes appears in the NT in transliterated Greek. You will have to evaluate each case, but in general this term should be translated, " ** Messiah ** ."
   * *Xristos* "**Christ**" or "**the Christ**" (if the term is being clearly used as a title; Paul often seems to use *Xristos *  as a second name for Jesus, but at times he clearly uses it as a title).

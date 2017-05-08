@@ -6,7 +6,7 @@ If you would like to contribute to this project please read [How to Contribute](
 
 When you are ready to submit your code please check the following first:
 - [ ] All unit tests pass
-- [ ] You have pulled in the latest changes from the upstream `develop` branch (See [syncing a fork](https://help.github.com/articles/syncing-a-fork/) for details).
+- [ ] You have pulled in the latest changes from the upstream `develop` branch (See: [syncing a fork](https://help.github.com/articles/syncing-a-fork/) for details).
 - [ ] The branch you are submitting follows the nomenclature described in the [Git branching model](http://nvie.com/posts/a-successful-git-branching-model/).
 
 ## Find a bug?
